@@ -1,3 +1,4 @@
+![image](https://github.com/ShiltonTK/dsc-phase-4-project/assets/45062861/6f892929-c416-413c-87d2-92af7a09839d)
 # TIME SERIES MODEL ON ZILLOW HOUSING DATA
 ## Project Overview
 
